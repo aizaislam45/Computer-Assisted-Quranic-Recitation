@@ -52,5 +52,4 @@ python test_recitation.py --file path/to/audio.wav
 * Tajweed rules integration
 * UI for web/mobile
 
-```
 
